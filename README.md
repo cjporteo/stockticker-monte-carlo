@@ -1,7 +1,7 @@
 # Stock Ticker Monte Carlo Simulation
 ## About
 A Python script to apply Monte Carlo simulation the board game *Stock Ticker*.
-Full Medium article on this project can be found [here](https://medium.com/@cjporteo/cracking-an-82-year-old-stock-trading-board-game-using-monte-carlo-simulation-384c26eeff6c).
+My published Medium article on this project can be found [here](https://medium.com/@cjporteo/cracking-an-82-year-old-stock-trading-board-game-using-monte-carlo-simulation-384c26eeff6c).
 ## Installation and Usage
 To install:
 
