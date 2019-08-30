@@ -17,6 +17,13 @@ Results will be displayed (textually and graphically) after the simulation finis
 <br>
 ![](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.15752-9/69257246_951981681829466_2498932949156626432_n.jpg?_nc_cat=102&_nc_oc=AQlpqqOmFhGLuvxrYW3KClfDaEwWrQ_sclRmsT3X2ZUFBBA52jlxjDQ7Egg0EUq_BpM&_nc_ht=scontent-yyz1-1.xx&oh=189be0dccf7d26a9a3e27f049dbd70c1&oe=5E13E420)
 <br>
+### Output Explanation
+
+ - **S** = initial stock price
+ - **n** = number of simulations
+ - **D** = dividend yield
+ - **H** = value of final holdings
+ - **P** = D + H - inital cash = profit
 ## Details
 - a maximum of 1M simulations are allowed per execution for runtime purposes; this can be modified in lines ``12`` and ``13`` of the code
 - completed simulations are serialized as *pickles* in local storage for future recall
