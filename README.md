@@ -13,10 +13,6 @@ The **config.ini** file contains the parameters for the simulation: amount of ca
 
 Results will be displayed (textually and graphically) after the simulation finishes.
 <br>
-![](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.15752-9/69456433_592841787913987_7051997083514961920_n.jpg?_nc_cat=107&_nc_oc=AQmtfxUNqj0fThe3PEpIDge78NOU4xI6HMUHWqU7BusgiuhENHfRjhuZRh42ey-Ky2E&_nc_ht=scontent-yyz1-1.xx&oh=6faf8f223afc6c56335943fe0212e414&oe=5E1217D3)
-<br>
-![](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.15752-9/69257246_951981681829466_2498932949156626432_n.jpg?_nc_cat=102&_nc_oc=AQlpqqOmFhGLuvxrYW3KClfDaEwWrQ_sclRmsT3X2ZUFBBA52jlxjDQ7Egg0EUq_BpM&_nc_ht=scontent-yyz1-1.xx&oh=189be0dccf7d26a9a3e27f049dbd70c1&oe=5E13E420)
-<br>
 ### Output Explanation
 
  - **S** = initial stock price
